@@ -1,0 +1,163 @@
+body{
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    z-index: auto;
+    margin: auto;
+  }
+
+.header{
+  display: inline-flex;
+  border-bottom: 1px solid seashell;
+  position: fixed;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 69px;
+  background-repeat: no-repeat;
+  margin: auto;
+  background-color: black;
+  z-index: 1;
+}
+
+.header img{
+  display: inline;
+  align-content: center;
+  padding-left: 10px;
+  height: 50px;
+}
+
+.header nav{
+  padding-right: 10px;
+}
+
+.header a{
+  text-decoration: underline;
+  display: inline;
+  color: seashell;
+  justify-content: space-between;
+  padding-right: 10px;
+  padding-top: 10px;
+  align-items: center;
+  align-content: center;
+  overflow: hidden;
+}
+
+#mission{
+  align-content: center;
+  display: block;
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+  height: 700px;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.mission-text{
+   text-align: center;
+   background-color: black;
+   display: inline-block;
+   width: 1200px;
+   align-content: center;
+   margin-top: 25%;
+ }
+
+.tea-month{
+  text-align: center;
+  margin-top: 75px;
+}
+
+#featured-tea{
+  margin: auto;
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  max-width: 1000px;
+  padding-bottom: 20px;
+}
+
+#featured-tea img{
+  max-width: 300px;
+  max-height: 200px;
+  margin: 10px;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+ #locations{
+  padding-top: 40px;
+  display: block;
+  background-image: url("img-locations-background.webp");
+  min-height: 500px;
+  min-width: 1200px;
+  justify-content: center;
+  align-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+ #locations h2{
+   text-align: center;
+   margin-bottom: 15px;
+}
+
+
+ .address{
+   align-content: center;
+   margin-right: 40px;
+   display: inline-block;
+   background-color: black;
+   height: 300px;
+   width: 300px;
+   justify-content: center;
+   text-align: center;
+   opacity: 1;
+   z-index: 1;
+   background-position: center;
+   background-repeat: no-repeat;
+   margin-left: 50px;
+ }
+
+
+.contact{
+  height: 200px;
+  text-align: center;
+}
+
+.copyright{
+  padding-left: 20px;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
